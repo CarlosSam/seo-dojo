@@ -1,6 +1,6 @@
 # seo
 
-## Author: Alisson Carlos Nunes (sam@samsara.net.br)
+## Author: Alisson Carlos Nunes
 
 Simple DOJO exercise
 
